@@ -1,3 +1,5 @@
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shejishi&show_icons=true&include_all_commits=true" alt="shejishi" />
+
 ### Hi there 👋
 - [Github](https://github.com/shejishi)
 - [简书](https://www.jianshu.com/u/b1c92a64018a)
