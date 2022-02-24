@@ -1,4 +1,15 @@
 ### Hi there 👋
+- [Github](https://github.com/shejishi)
+- [简书](https://www.jianshu.com/u/b1c92a64018a)
+- [Csdn](https://blog.csdn.net/sunyao19940708)
+
+<br/>
+<div>
+  <a href="https://github.com/shejishi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shejishi&layout=dracula" />
+  </a>
+</div>
+
 
 <!--
 **shejishi/shejishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
