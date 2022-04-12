@@ -3,7 +3,7 @@
 ### Hi there 👋
 - [Github](https://github.com/shejishi)
 - [简书](https://www.jianshu.com/u/b1c92a64018a)
-- [Csdn](https://blog.csdn.net/sunyao19940708)
+- [CSDN](https://blog.csdn.net/sunyao19940708)
 
 <br/>
 <div>
